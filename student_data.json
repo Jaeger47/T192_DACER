@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "mark dacer",
+      "age": 23,
+      "email": "mark@mail.com"
+    },
+    {
+      "name": "juan cruz",
+      "age": 24,
+      "email": "juan@mail.com"
+    },
+    {
+      "name": "based jovito",
+      "age": 23,
+      "email": "jovito@mail.com"
+    }
+  ]
+}
