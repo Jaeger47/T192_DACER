@@ -5,18 +5,6 @@
       "age": 23,
       "email": "mark@mail.com",
       "isEnrolled": true
-    },
-    {
-      "name": "juan cruz",
-      "age": 24,
-      "email": "juan@mail.com",
-      "isEnrolled": true
-    },
-    {
-      "name": "based jovito",
-      "age": 23,
-      "email": "jovito@mail.com",
-      "isEnrolled": false
     }
   ]
 }
