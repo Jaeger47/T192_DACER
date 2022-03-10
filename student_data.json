@@ -2,9 +2,9 @@
   "students": [
     {
       "name": "mark dacer",
-      "age": 23,
+      "age": 26,
       "email": "mark@mail.com",
-      "isEnrolled": true
+      "isEnrolled": false
     },
      {
       "name": "juan cruz",
