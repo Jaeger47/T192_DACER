@@ -6,10 +6,48 @@
     "love jhoye raboy"
   ],
   "admin": [
-    "sample_emp1",
-    "sample_emp2",
-    "sample_emp3",
-    "sample_emp4"
+    "emp_1",
+    "emp_1"
+    ],
+  "lrc": [
+    "emp_1",
+    "emp_1"
+    ],
+  "food_trade": [
+    "emp_1",
+    "emp_1"
+    ],
+  "sciene_complex": [
+    "emp_1",
+    "emp_1"
+    ],
+  "drawing": [
+    "emp_1",
+    "emp_1"
+    ],
+  "furniture": [
+    "emp_1",
+    "emp_1"
+    ],
+  "civil": [
+    "emp_1",
+    "emp_1"
+    ],
+  "arts": [
+    "emp_1",
+    "emp_1"
+    ],
+  "guidance": [
+    "emp_1",
+    "emp_1"
+    ],
+  "gym_e": [
+    "emp_1",
+    "emp_1"
+    ],
+  "gym_f": [
+    "emp_1",
+    "emp_1"
     ]
   }
 }
