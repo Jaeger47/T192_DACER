@@ -17,6 +17,12 @@
       "age": 25,
       "email": "based@mail.com",
       "isEnrolled": false
+    },
+    {
+      "name": "based god",
+      "age": 30,
+      "email": "base@mail.com",
+      "isEnrolled": true
     }
     ]
 }
