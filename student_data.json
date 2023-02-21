@@ -17,12 +17,5 @@
       "age": 25,
       "email": "based@mail.com",
       "isEnrolled": false
-    },
-    {
-      "name": "Kurt Martinez",
-      "age": 26,
-      "email": "lmao@mail.com",
-      "isEnrolled": true
     }
-  ]
 }
