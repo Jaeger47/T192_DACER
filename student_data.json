@@ -1,10 +1,10 @@
 {
   "students": [
     {
-      "name": "mark dacer",
-      "age": 26,
+      "name": "koko hekmatyar",
+      "age": 25,
       "email": "mark@mail.com",
-      "isEnrolled": false
+      "isEnrolled": true
     },
      {
       "name": "juan cruz",
