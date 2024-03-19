@@ -9,7 +9,8 @@
      {
       "name": "Kasper Hekmatyar",
       "age": 35,
-      "email": "cruz@mail.com"
+      "email": "cruz@mail.com",
+      "isEnrolled": true
     },
      {
       "name": "based jovito",
